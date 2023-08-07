@@ -28,6 +28,7 @@ taitanic ML service
 - docker 
 ```
 $ docker build -t taitanic-api:0.0.1 .
+
 $ docker images taitanic-api
 REPOSITORY      TAG      IMAGE ID       CREATED          SIZE
 taitanic-api    0.0.1    9b27c25c0fc6   14 seconds ago   324MB
