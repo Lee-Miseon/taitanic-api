@@ -20,5 +20,15 @@ taitanic ML service
 ### package
 - gradle bootjar
 
+### package & run
+- gradle bootjar
+- java -jar /app.jar
+
 # DEPLOY
 - docker 
+```
+
+```
+
+### REFERENCE
+- https://spring.io/guides/topicals/spring-boot-docker/
